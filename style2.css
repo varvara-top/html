@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: aqua;
+}
+
+
+a {
+    text-decoration: none;
+}
